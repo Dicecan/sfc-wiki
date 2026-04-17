@@ -45,4 +45,3 @@ curl [https://global.sfc-time.encore.baby/?timestamp=1776430271](https://global.
 
 ---
 *Created by [Dicecan](https://github.com/Dicecan)*
-```
