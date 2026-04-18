@@ -9,6 +9,9 @@ export default defineConfig({
       lang: 'zh-CN',
       title: "标准猫历 SFC",
       themeConfig: {
+        socialLinks: [
+          { icon: 'github', link: 'https://github.com/Dicecan/sfc-wiki' }
+        ],
         nav: [
           { text: '首页', link: '/' },
           { text: '实时面板', link: '/dashboard' },
