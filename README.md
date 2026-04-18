@@ -1,4 +1,5 @@
 # 🐾 Standard Feline Calendar (SFC)
+前往WIKI网站 [WIKI](http://sfc-time.encore.baby/)
 
 > **"Time is relative, but for a cat, it's absolute."**
 
